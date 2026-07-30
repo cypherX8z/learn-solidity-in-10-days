@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "NomicFoundation.hardhat-solidity",
+    "tamasfe.even-better-toml",
+    "ryanluker.vscode-coverage-gutters",
+    "tintinweb.solidity-visual-auditor"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "[solidity]": {
+    "editor.defaultFormatter": "NomicFoundation.hardhat-solidity",
+    "editor.formatOnSave": true
+  },
+  "solidity.formatter": "forge",
+  "files.watcherExclude": {
+    "**/cache/**": true,
+    "**/lib/**": true,
+    "**/out/**": true
+  },
+  "search.exclude": {
+    "**/cache": true,
+    "**/lib": true,
+    "**/out": true
+  }
+}
