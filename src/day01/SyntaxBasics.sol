@@ -23,7 +23,7 @@ contract SyntaxBasics {
         Suspended
     }
 
-    // struct 把相关字段组合成一个类型，类似后端开发中的 DTO、record 或数据类。
+    // struct 把相关字段组合成一个类型，类似其他语言中的 record 或数据类。
     struct Profile {
         string nickname;
         uint64 createdAt;

@@ -1,10 +1,10 @@
-# Solidity Foundry 十天实战
+# 十天学会 Solidity
 
-[![CI](https://github.com/cypherX8z/solidity-foundry-10-day-lab/actions/workflows/test.yml/badge.svg)](https://github.com/cypherX8z/solidity-foundry-10-day-lab/actions/workflows/test.yml)
+[![CI](https://github.com/cypherX8z/learn-solidity-in-10-days/actions/workflows/test.yml/badge.svg)](https://github.com/cypherX8z/learn-solidity-in-10-days/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-一个面向资深后端开发者的 Solidity、EVM 与 Foundry 中文实战课程。通过 10 天递进式实验，
-建立智能合约执行模型、业务建模能力、资产安全意识、测试方法和可部署的工程工作流。
+一套 Solidity、EVM 与 Foundry 中文实战课程。通过 10 天递进式实验，建立智能合约执行模型、
+业务建模能力、资产安全意识、测试方法和可部署的工程工作流。
 
 所有核心示例均包含中文业务注释和技术注释，可以直接运行、修改和观察调用 trace。
 

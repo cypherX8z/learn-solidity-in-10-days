@@ -1,7 +1,7 @@
 # Day 01: Solidity 基本语法、Storage 与 ABI
 
 第一天分为两段。先把 Solidity 当作一门新的静态语言学习，再把这些语法映射到 EVM。
-资深后端经验可以加快状态机、测试和工程部分，但不能替代 Solidity 的执行语义。
+即使已有其他语言的开发经验，也需要重新理解 Solidity 的执行语义和链上约束。
 
 ## 今日目标
 
@@ -55,7 +55,7 @@ pragma solidity ^0.8.36;
 
 ## 2. 常用类型
 
-| Solidity | 说明 | 后端类比 |
+| Solidity | 说明 | 常见编程语言类比 |
 | --- | --- | --- |
 | `bool` | `true/false` | boolean |
 | `uint256` | 256 位无符号整数 | unsigned big integer with fixed width |
